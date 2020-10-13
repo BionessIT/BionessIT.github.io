@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bioness.ios.L300Go.Toolbox</string>
 				<key>bundle-version</key>
-				<string>0.11.3</string>
+				<string>0.11.3-1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>L300Go Toolbox 0.11.3</string>
+				<string>L300Go Toolbox 0.11.3-1</string>
 			</dict>
 		</dict>
 	</array>
