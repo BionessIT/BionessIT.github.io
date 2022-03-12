@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bioness.ios.TalisMann.Toolbox.BootLoader</string>
+				<string>com.bioness.ios.EPTToolbox</string>
 				<key>bundle-version</key>
 				<string>0.2.2</string>
 				<key>kind</key>
